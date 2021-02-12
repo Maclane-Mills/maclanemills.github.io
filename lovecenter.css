@@ -1,0 +1,116 @@
+body {
+
+    background-color: cornflowerblue;
+    margin: 0;
+    padding: 0;
+    font-family: verdanna, monospace;
+}
+
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+header img {
+    width: 50%;
+    height: 25%;
+}
+
+header {
+    padding: 20px;
+    padding-left: 250px;
+    background-color: mediumaquamarine;
+    border: 20px solid pink;
+}
+
+nav {
+
+    background-color: hotpink;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    font-family: verdana, sans-serif;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 120%;
+}
+
+nav li {
+    display: inline;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav a:hover {
+    background-color: mediumaquamarine;
+    color: white;
+}
+
+section {
+    padding: 1% 4%;
+    overflow: auto;
+}
+
+section h1,
+section h2 {
+    color: #ff66ff;
+    font-family: monospace;
+    font-size: 180%
+}
+
+section h2 {
+    color: #004792;
+    font size: 140%l;
+}
+
+footer {
+    background-color: hotpink;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+
+
+
+
+
+.button {
+    background-color: hotpink;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 20px;
+    display: inline-block;
+    border-radius: 10px;
+
+}
+
+a.button:hover {
+    background-color: mediumaquamarine;
+}
+
+.img {
+    float: right;
+    width: 40%;
+    height: 20%;
+    border: 10px solid #ff66ff;
+    padding: 2px
+}
+
+.p {
+    font-size: 120%;
+    font-family: monospace;
+}
+
+.don {
+    height: 300px;
+}
